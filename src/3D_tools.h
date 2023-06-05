@@ -1,7 +1,7 @@
 #pragma once
 
 #define GLFW_INCLUDE_NONE
-#include <C:\Users\33651\OneDrive\Bureau\Lescours\Open Gl\Proj\third_party\glfw\include\GLFW\glfw3.h>
+#include <third_party\glfw\include\GLFW\glfw3.h>
 
 // Needed before including GL/glu.h 
 // to avoid a compilation error because of CALLBACK pre-processor definition.
