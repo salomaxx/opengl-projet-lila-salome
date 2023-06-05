@@ -1,5 +1,5 @@
 #define GLFW_INCLUDE_NONE
-#include "C:\Users\33651\Downloads\TD04-workflow\third_party\glfw\include\GLFW\glfw3.h"
+#include "third_party\glfw\include\GLFW\glfw3.h"
 
 #include "3D_tools.h"
 #include "draw_scene.h"
