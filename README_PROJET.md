@@ -1,0 +1,2 @@
+Les fonctions sont séparées dans plusieurs fichiers cpp, et sont toutes initialisées dans draw_scene.h
+Il faudra peut être que vous modifiez le path de glfw3.h dans les includes des deux .h du fichier src, chez moi j'étais obligée de mettre le chemin absolu pour que ça marche.
